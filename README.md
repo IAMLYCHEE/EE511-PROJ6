@@ -1,1 +1,1 @@
-# EE511-PROJ6
+# sampling given continous distribution
